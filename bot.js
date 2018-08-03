@@ -6,7 +6,7 @@ var fs = require('fs');
 // -->COMMANDS<--
 
 bot.on('guildMemberAdd',member =>{
-    member.send('ATARA ATAR GİDERE GİDER BU KADAR ACI ÇEKTİĞİMİZ YETER https://discord.gg/8aUCY5D');
+    member.send('NS PROJESİ https://discord.gg/6kQAvHv\nHAKIMIZDA https://discord.gg/6kQAvHv\nCANLI DESTEKhttps://goo.gl/d5Ltb3');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 
