@@ -6,7 +6,7 @@ var fs = require('fs');
 // -->COMMANDS<--
 
 bot.on('guildMemberAdd',member =>{
-    member.send('Destek discord.gg/6H9f9Ky\nsSyfamız sites.google.com/view/negronn/1 \nForum gist.github.com/NEGRONN \nKazancım 0');
+    member.send('porno discordum n\alt satırım invite linkini go buraya');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 
